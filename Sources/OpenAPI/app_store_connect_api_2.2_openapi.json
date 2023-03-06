@@ -96542,6 +96542,9 @@
                 "detail": {
                   "type": "string"
                 },
+                "meta": {
+                  "type": "string"
+                },
                 "source": {
                   "oneOf": [
                     {
